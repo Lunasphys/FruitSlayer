@@ -1,0 +1,530 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1684431112361874, "dur":598, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112362475, "dur":28, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1684431112362514, "dur":8, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1684431112362522, "dur":305, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1684431112362838, "dur":238, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112363076, "dur":0, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722246, "dur":238, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722484, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722492, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722493, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722505, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722506, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722512, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722514, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722517, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722518, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722520, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722521, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722525, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722526, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722529, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722529, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722532, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722533, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722537, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722538, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722540, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722541, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722543, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722544, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722547, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722547, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722549, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722550, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722553, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722553, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722556, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722556, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722559, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722560, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722562, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722562, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722565, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722566, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722568, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722569, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722572, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722582, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112722602, "dur":913, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1684431112363135, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684431112363135, "dur":2101, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684431112365236, "dur":9036, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1684431112374275, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684431112374375, "dur":1072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1684431112375470, "dur":34285, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684431112409760, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684431112409922, "dur":3265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684431112413212, "dur":10620, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684431112423836, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684431112423844, "dur":2788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684431112426653, "dur":12439, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684431112439104, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684431112439110, "dur":1125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684431112440270, "dur":29895, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684431112470224, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684431112470230, "dur":2438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684431112472722, "dur":24794, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684431112497519, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684431112497527, "dur":726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684431112498275, "dur":100841, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684431112599118, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684431112599123, "dur":1132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684431112600292, "dur":121950, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684431112363024, "dur":80, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684431112363104, "dur":2181, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684431112365286, "dur":33993, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1684431112399282, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684431112399293, "dur":2757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1684431112402076, "dur":12420, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684431112414500, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684431112414506, "dur":2137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684431112416672, "dur":68912, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684431112485588, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684431112485596, "dur":2360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684431112487993, "dur":146901, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684431112634898, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684431112634907, "dur":1017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684431112635958, "dur":86315, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684431112363020, "dur":79, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684431112363099, "dur":2205, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684431112365305, "dur":503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1684431112365811, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684431112367349, "dur":6572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1684431112373987, "dur":24905, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684431112398896, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684431112398903, "dur":3868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684431112402799, "dur":26375, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684431112429177, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684431112429183, "dur":736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684431112429952, "dur":10425, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684431112440380, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684431112440385, "dur":2431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684431112442843, "dur":12839, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684431112455685, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684431112455692, "dur":935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684431112456649, "dur":13514, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684431112470167, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684431112470228, "dur":1551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684431112471816, "dur":23348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684431112495167, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684431112495175, "dur":1548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684431112496751, "dur":125058, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684431112621814, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684431112621847, "dur":1159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684431112623038, "dur":99211, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684431112362953, "dur":131, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684431112363085, "dur":2141, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684431112365226, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1684431112365380, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684431112367500, "dur":1819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1684431112369355, "dur":26183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684431112395541, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684431112398299, "dur":1947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684431112400282, "dur":12930, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684431112413216, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684431112413223, "dur":887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684431112414149, "dur":24110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684431112438262, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684431112438269, "dur":2259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684431112440577, "dur":23830, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684431112464410, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684431112464416, "dur":1940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684431112466400, "dur":13228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684431112479633, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684431112479660, "dur":781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684431112480474, "dur":67280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684431112547760, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684431112547769, "dur":1274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684431112549073, "dur":88071, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684431112637148, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684431112637155, "dur":914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684431112638099, "dur":84161, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684431112362986, "dur":108, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684431112363095, "dur":2121, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684431112365217, "dur":12862, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1684431112378082, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684431112378097, "dur":2822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1684431112380955, "dur":11311, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684431112392270, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684431112392970, "dur":7119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684431112400127, "dur":16564, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684431112416694, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684431112416700, "dur":2658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684431112419395, "dur":17915, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684431112437314, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684431112437321, "dur":1676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684431112439028, "dur":12213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684431112451245, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684431112451251, "dur":938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684431112452248, "dur":11292, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684431112463546, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684431112463555, "dur":947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684431112464534, "dur":76712, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684431112541249, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684431112541255, "dur":2260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684431112543554, "dur":83418, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684431112626977, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684431112626986, "dur":1026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684431112628037, "dur":94209, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684431112362925, "dur":155, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684431112363081, "dur":2125, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684431112365212, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":6, "ts":1684431112365216, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684431112366138, "dur":298, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":6, "ts":1684431112366441, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/app.info" }}
+,{ "pid":12345, "tid":6, "ts":1684431112366492, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684431112366709, "dur":1674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/app.info" }}
+,{ "pid":12345, "tid":6, "ts":1684431112368386, "dur":85150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684431112453586, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684431112453660, "dur":3100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684431112456798, "dur":16177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684431112472978, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684431112472985, "dur":1303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684431112474323, "dur":33980, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684431112508308, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684431112508316, "dur":6480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684431112514827, "dur":62374, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684431112577205, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684431112577210, "dur":3256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684431112580498, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1684431112580601, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684431112580607, "dur":739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1684431112581375, "dur":1724, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":6, "ts":1684431112583332, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684431112583341, "dur":2290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":6, "ts":1684431112585680, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/level1" }}
+,{ "pid":12345, "tid":6, "ts":1684431112585730, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684431112585735, "dur":1528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/level1" }}
+,{ "pid":12345, "tid":6, "ts":1684431112587290, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1684431112587388, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684431112587392, "dur":1039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1684431112588459, "dur":133810, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684431112363054, "dur":53, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684431112363107, "dur":2107, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684431112365215, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1684431112365375, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684431112366883, "dur":2059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1684431112368978, "dur":25135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer.exe" }}
+,{ "pid":12345, "tid":7, "ts":1684431112394117, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684431112394147, "dur":1368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer.exe" }}
+,{ "pid":12345, "tid":7, "ts":1684431112395550, "dur":14018, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684431112409575, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684431112409587, "dur":1002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684431112410623, "dur":103553, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684431112514180, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684431112514188, "dur":1233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684431112515451, "dur":25227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684431112540680, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684431112540686, "dur":1164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684431112541882, "dur":90886, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684431112632773, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684431112632783, "dur":1412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684431112634231, "dur":88034, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684431112363086, "dur":4, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684431112363090, "dur":2125, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684431112365216, "dur":414, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1684431112365633, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684431112367132, "dur":1380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1684431112368553, "dur":58987, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1684431112427544, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684431112427551, "dur":1645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1684431112429236, "dur":24546, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684431112453785, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684431112453791, "dur":1486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684431112455309, "dur":11595, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684431112466907, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684431112466913, "dur":2499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684431112469438, "dur":29054, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684431112498494, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684431112498500, "dur":925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684431112499458, "dur":60798, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684431112560259, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684431112560265, "dur":6430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684431112566729, "dur":127684, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684431112694416, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684431112694422, "dur":567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684431112695004, "dur":27248, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112363123, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112363124, "dur":2093, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112365218, "dur":199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1684431112365420, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112366901, "dur":2088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1684431112369026, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":9, "ts":1684431112369137, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112369371, "dur":10668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":9, "ts":1684431112380082, "dur":20159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684431112400244, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112400250, "dur":1264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684431112401568, "dur":12588, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684431112414160, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112414167, "dur":1850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684431112416056, "dur":24666, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684431112440725, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112440730, "dur":2194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684431112442956, "dur":12806, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684431112455766, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112455772, "dur":4112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684431112459921, "dur":9713, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684431112469637, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112469647, "dur":1017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684431112470700, "dur":20605, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684431112491312, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112491352, "dur":751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684431112492124, "dur":46890, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684431112539018, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112539027, "dur":1906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684431112540997, "dur":30938, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684431112571940, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112571950, "dur":1042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684431112573025, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":9, "ts":1684431112573090, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112573133, "dur":1050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":9, "ts":1684431112575188, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":9, "ts":1684431112575270, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112575278, "dur":1299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":9, "ts":1684431112576612, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1684431112576648, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112576654, "dur":3276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1684431112579969, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":9, "ts":1684431112579999, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112580006, "dur":4334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":9, "ts":1684431112584374, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/resources.assets" }}
+,{ "pid":12345, "tid":9, "ts":1684431112584407, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112584412, "dur":1211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/resources.assets" }}
+,{ "pid":12345, "tid":9, "ts":1684431112585664, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/level1.resS" }}
+,{ "pid":12345, "tid":9, "ts":1684431112585700, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112585706, "dur":994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/level1.resS" }}
+,{ "pid":12345, "tid":9, "ts":1684431112586736, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":9, "ts":1684431112586770, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684431112586774, "dur":2028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":9, "ts":1684431112588830, "dur":133447, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684431112363160, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684431112363161, "dur":2069, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684431112365230, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1684431112365382, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684431112399187, "dur":1368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1684431112400583, "dur":14723, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1684431112415310, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684431112415316, "dur":3472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1684431112418809, "dur":17277, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1684431112436090, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684431112436120, "dur":1550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1684431112437695, "dur":29173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1684431112466871, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684431112466878, "dur":1017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1684431112467919, "dur":15884, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1684431112483809, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684431112483817, "dur":4239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1684431112488094, "dur":88853, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":10, "ts":1684431112576951, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684431112576958, "dur":5014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":10, "ts":1684431112582017, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1684431112582056, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684431112582061, "dur":4482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1684431112586569, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/level0" }}
+,{ "pid":12345, "tid":10, "ts":1684431112586593, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684431112586597, "dur":542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/level0" }}
+,{ "pid":12345, "tid":10, "ts":1684431112587159, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":10, "ts":1684431112587181, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684431112587197, "dur":1447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":10, "ts":1684431112588669, "dur":133578, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684431112363183, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684431112363184, "dur":2027, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684431112365213, "dur":283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1684431112365581, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684431112366837, "dur":1670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1684431112368526, "dur":230577, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684431112599108, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684431112599115, "dur":8489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684431112607639, "dur":114602, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684431112363213, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684431112363213, "dur":2178, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684431112365391, "dur":36659, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684431112402055, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684431112402294, "dur":1772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684431112404107, "dur":30433, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684431112434544, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684431112434552, "dur":1966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684431112436540, "dur":12158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684431112448703, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684431112448712, "dur":1227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684431112449967, "dur":22563, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684431112472533, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684431112472541, "dur":1655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684431112474238, "dur":15189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684431112489432, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684431112489440, "dur":676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684431112490137, "dur":163201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684431112653352, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684431112653357, "dur":1346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684431112654718, "dur":67522, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1684431112363235, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1684431112363235, "dur":2155, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1684431112365391, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":13, "ts":1684431112365440, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1684431112366343, "dur":10782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":13, "ts":1684431112377224, "dur":34119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1684431112411347, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1684431112411354, "dur":5689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1684431112417079, "dur":11184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1684431112428267, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1684431112428274, "dur":901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1684431112429201, "dur":10528, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1684431112439732, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1684431112439738, "dur":1590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1684431112441391, "dur":12374, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1684431112453768, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1684431112453774, "dur":1147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1684431112454958, "dur":14900, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1684431112469861, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1684431112469873, "dur":1282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1684431112471181, "dur":9787, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1684431112480972, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1684431112480978, "dur":5328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1684431112486330, "dur":53938, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1684431112540272, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1684431112540279, "dur":662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1684431112540966, "dur":111548, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":13, "ts":1684431112652517, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1684431112652523, "dur":1245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":13, "ts":1684431112653783, "dur":68468, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684431112363255, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684431112363255, "dur":1953, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684431112365213, "dur":46252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":14, "ts":1684431112411467, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684431112415416, "dur":1380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":14, "ts":1684431112416819, "dur":36662, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684431112453486, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684431112453564, "dur":2248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684431112455834, "dur":38957, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684431112494813, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684431112494821, "dur":864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684431112495719, "dur":68561, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684431112564284, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684431112564293, "dur":1826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684431112566140, "dur":154649, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684431112720792, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1684431112720797, "dur":1404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":14, "ts":1684431112722218, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":14, "ts":1684431112722219, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1684431112363276, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1684431112363277, "dur":2069, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1684431112365346, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":15, "ts":1684431112365524, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1684431112366536, "dur":8781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":15, "ts":1684431112375343, "dur":17077, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1684431112392424, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1684431112392991, "dur":8613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1684431112401664, "dur":54799, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1684431112456467, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1684431112456473, "dur":1433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1684431112458650, "dur":15066, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1684431112473721, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1684431112473728, "dur":881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1684431112474639, "dur":83773, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":15, "ts":1684431112558418, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1684431112558426, "dur":1468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":15, "ts":1684431112559920, "dur":34500, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":15, "ts":1684431112594425, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1684431112594433, "dur":719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":15, "ts":1684431112595174, "dur":127069, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1684431112363309, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1684431112363310, "dur":1908, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1684431112365219, "dur":12447, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1684431112377669, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1684431112377680, "dur":3610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1684431112381330, "dur":25529, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1684431112406865, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1684431112406875, "dur":3203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1684431112410101, "dur":90427, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1684431112500533, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1684431112500540, "dur":15419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1684431112515989, "dur":92622, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":16, "ts":1684431112608615, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1684431112608624, "dur":980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":16, "ts":1684431112609638, "dur":112606, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684431112363342, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684431112363342, "dur":1900, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684431112365243, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":17, "ts":1684431112365381, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684431112398723, "dur":1924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":17, "ts":1684431112400709, "dur":18597, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684431112419309, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684431112419316, "dur":5526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684431112424875, "dur":11030, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684431112435910, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684431112435917, "dur":748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684431112436684, "dur":12476, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684431112449163, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684431112449169, "dur":781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684431112449973, "dur":68325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684431112518303, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684431112518312, "dur":4782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684431112523117, "dur":36115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684431112559235, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684431112559242, "dur":7826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684431112567087, "dur":68467, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684431112635557, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1684431112635564, "dur":875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":17, "ts":1684431112636469, "dur":85794, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1684431112363357, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1684431112363358, "dur":1855, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1684431112365216, "dur":26539, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":18, "ts":1684431112391759, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1684431112391778, "dur":4649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":18, "ts":1684431112396445, "dur":19197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1684431112415646, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1684431112415651, "dur":3118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1684431112418796, "dur":31523, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1684431112450321, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1684431112450328, "dur":901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1684431112451253, "dur":12850, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1684431112464108, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1684431112464115, "dur":866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1684431112465004, "dur":15970, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1684431112480977, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1684431112480983, "dur":3163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1684431112484170, "dur":49070, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":18, "ts":1684431112533245, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1684431112533253, "dur":857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":18, "ts":1684431112534133, "dur":131012, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":18, "ts":1684431112665149, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1684431112665154, "dur":1082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":18, "ts":1684431112666254, "dur":55999, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1684431112363373, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1684431112363374, "dur":1836, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1684431112365213, "dur":11751, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":19, "ts":1684431112376972, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1684431112377319, "dur":18546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":19, "ts":1684431112395886, "dur":127423, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1684431112523312, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1684431112523320, "dur":704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1684431112524044, "dur":121757, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":19, "ts":1684431112645807, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1684431112645819, "dur":947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":19, "ts":1684431112646803, "dur":75463, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684431112363389, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684431112363389, "dur":1820, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684431112365212, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":20, "ts":1684431112365296, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684431112399515, "dur":1244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":20, "ts":1684431112400784, "dur":36733, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684431112437521, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684431112437527, "dur":1204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684431112438773, "dur":31184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684431112469963, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684431112469968, "dur":2242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684431112472233, "dur":99720, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684431112571957, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684431112571965, "dur":1165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1684431112573171, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":20, "ts":1684431112573213, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684431112573218, "dur":12671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":20, "ts":1684431112585923, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/level0.resS" }}
+,{ "pid":12345, "tid":20, "ts":1684431112585950, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1684431112585954, "dur":4078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Lauri/Documents/jeu/FruitSlayer_Data/level0.resS" }}
+,{ "pid":12345, "tid":20, "ts":1684431112590055, "dur":132193, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684431112724613, "dur":1064, "ph":"X", "name": "ProfilerWriteOutput" }
+,
